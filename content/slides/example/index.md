@@ -10,6 +10,7 @@ tags:
   - Tutorials
 image:
   preview_only: true
+  caption: test
 categories: []
 ---
 
