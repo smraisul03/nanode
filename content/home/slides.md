@@ -21,7 +21,7 @@ content:
   order: desc
 design:
   view: card
-  columns: "2"
+  columns: "1"
   spacing:
     padding:
       - 3rem
