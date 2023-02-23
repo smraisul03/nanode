@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: 1950s
-  theme_night: 1950s
-  font: 1950s
+  theme_day: Cyberpunk
+  theme_night: Cyberpunk
+  font: Cyberpunk
   font_size: L
 
 # SEO
@@ -37,7 +37,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Ariya Seng, S M Raisul Alam Bhuiyan & Tom Tran. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
