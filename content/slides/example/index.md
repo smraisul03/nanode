@@ -14,6 +14,7 @@ image:
   alt_text: ""
 categories: []
 ---
+{{< slide background-image="boards.webp" >}}
 
 ## See the world through Nanode's Eyes
 ---
