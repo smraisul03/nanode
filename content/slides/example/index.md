@@ -9,7 +9,7 @@ authors: []
 tags:
   - Tutorials
 image:
-  preview_only: true
+  preview_only: false
   caption: test
   alt_text: test
 categories: []
