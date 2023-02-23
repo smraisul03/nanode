@@ -15,10 +15,7 @@ image:
 categories: []
 ---
 
-# Create slides in Markdown with Wowchemy
-
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/)
-
+# See the world through Nanode's Eyes
 ---
 
 ## Features
