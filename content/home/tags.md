@@ -11,7 +11,7 @@ content:
 design:
   font_size_min: 1
   font_size_max: 2.5
-  columns: "1"
+  columns: "2"
   spacing:
     padding:
       - 2rem
