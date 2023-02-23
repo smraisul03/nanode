@@ -1,7 +1,7 @@
 ---
 title: Nanode Project Bot
 date: 2023-02-23T07:21:31.139Z
-summary: test
+summary: " "
 slides:
   theme: black
   highlight_style: dracula
@@ -9,9 +9,9 @@ authors: []
 tags:
   - Tutorials
 image:
-  preview_only: false
-  caption: test
-  alt_text: test
+  preview_only: true
+  caption: ""
+  alt_text: ""
 categories: []
 ---
 
