@@ -19,5 +19,4 @@ design:
       - 2rem
       - 0
 ---
-
-Check out my recent decks below or choose a topic to explore ✨
+A﻿riya Seng, S M Raisul Alam Bhuiyan, Tom Tran
