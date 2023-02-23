@@ -11,6 +11,7 @@ tags:
 image:
   preview_only: true
   caption: test
+  alt_text: test
 categories: []
 ---
 
