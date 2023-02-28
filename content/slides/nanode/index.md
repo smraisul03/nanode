@@ -28,25 +28,15 @@ C﻿SCI 310-01
 
 ## Introduction
 
-{{< fragment >}}
+{{< fragment >}} $\W﻿hat is the Nanode Bot?$ {﻿{< /fragment >}}
 
-* $\W﻿hat is the Nanode Bot?$
-
-{﻿{< /fragment >}}
-
-{﻿{ <fragment> }}
-
-* $\W﻿hat hardware are we using?$
-
-{﻿{ </fragment> }}
+{﻿{ <fragment> }} $\W﻿hat hardware are we using?$ {﻿{ </fragment> }}
 
 {{< speaker_note >}}
 
 N﻿anode is an Arduino like 8 bit microcontroller board with integrated Ethernet connectivity.
 
 T﻿he bot portion of the project are the sensors and motors we're using.
-
-\-﻿-
 
 H﻿ardware:
 
