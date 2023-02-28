@@ -16,31 +16,35 @@ categories: []
 ---
 {{< slide background-image="boards.webp" >}}
 
-## See the world through Nanode's Eyes
----
+# Nanode Bot
 
-## Features
+by Ariya Seng, S M Raisul Alam Bhuiyan, and Tom Tran.
 
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+C﻿SCI 310-01
 
----
+**D﻿ATE**
+
+- - -
+
+## Introduction
+
+* W﻿hat is the Nanode Bot?
+
+- - -
 
 ## Controls
 
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://revealjs.com/pdf-export/)
+* Next: `Right Arrow` or `Space`
+* Previous: `Left Arrow`
+* Start: `Home`
+* Finish: `End`
+* Overview: `Esc`
+* Speaker notes: `S`
+* Fullscreen: `F`
+* Zoom: `Alt + Click`
+* [PDF Export](https://revealjs.com/pdf-export/)
 
----
+- - -
 
 ## Code Highlighting
 
@@ -54,7 +58,7 @@ if porridge == "blueberry":
     print("Eating...")
 ```
 
----
+- - -
 
 ## Math
 
@@ -63,10 +67,10 @@ In-line math: $x + y = z$
 Block math:
 
 $$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
 $$
 
----
+- - -
 
 ## Fragments
 
@@ -84,14 +88,14 @@ Press `Space` to play!
 {{< fragment >}} $X\boldsymbol\beta$ {{< /fragment >}}
 {{< fragment >}} $+ \boldsymbol\varepsilon$ {{< /fragment >}}
 
----
+- - -
 
 A fragment can accept two optional parameters:
 
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
+* `class`: use a custom style (requires definition in custom CSS)
+* `weight`: sets the order in which a fragment appears
 
----
+- - -
 
 ## Speaker Notes
 
@@ -110,29 +114,29 @@ Press the `S` key to view the speaker notes!
 
 {{< speaker_note >}}
 
-- Only the speaker can read these notes
-- Press `S` key to view
+* Only the speaker can read these notes
+* Press `S` key to view
 
 {{< /speaker_note >}}
 
----
+- - -
 
 ## Themes
 
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
-- beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
+* black: Black background, white text, blue links (default)
+* white: White background, black text, blue links
+* league: Gray background, white text, blue links
+* beige: Beige background, dark text, brown links
+* sky: Blue background, thin dark text, blue links
 
----
+- - -
 
-- night: Black background, thick white text, orange links
-- serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
+* night: Black background, thick white text, orange links
+* serif: Cappuccino background, gray text, brown links
+* simple: White background, black text, blue links
+* solarized: Cream-colored background, dark green text, blue links
 
----
+- - -
 
 {{< slide background-image="boards.webp" >}}
 
@@ -146,7 +150,7 @@ Customize the slide style and background
 {{</* slide class="my-style" */>}}
 ```
 
----
+- - -
 
 ## Custom CSS Example
 
@@ -162,7 +166,7 @@ Create `assets/css/reveal_custom.css` with:
 }
 ```
 
----
+- - -
 
 # Questions?
 
