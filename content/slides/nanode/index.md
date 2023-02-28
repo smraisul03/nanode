@@ -28,17 +28,17 @@ C﻿SCI 310-01
 
 ## Introduction
 
-{{<fragment>}}
+{{< fragment >}}
 
 * $\W﻿hat is the Nanode Bot?$
 
-{﻿{</fragment>}}
+{﻿{< /fragment >}}
 
-{﻿{<fragment>}}
+{﻿{ <fragment> }}
 
 * $\W﻿hat hardware are we using?$
 
-{﻿{</fragment>}}
+{﻿{ </fragment> }}
 
 {{< speaker_note >}}
 
