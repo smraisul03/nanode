@@ -28,21 +28,53 @@ C﻿SCI 310-01
 
 ## Introduction
 
+{{<fragment>}}
+
 * W﻿hat is the Nanode Bot?
+
+{﻿{</fragment>}}
+
+{﻿{<fragment>}}
+
+* W﻿hat hardware are we using?
+
+{﻿{</fragment>}}
+
+{{< speaker_note >}}
+
+N﻿anode is an Arduino like 8 bit microcontroller board with integrated Ethernet connectivity.
+
+T﻿he bot portion of the project are the sensors and motors we're using.
+
+\-﻿-
+
+H﻿ardware:
+
+Arduino Uno R3
+
+Ultrasonic Sensor Module
+
+GY-521 Module (gyroscope & accelerometers)
+
+Camera Module
+
+Line Tracking Module (ITR200001)
+
+IO Expansion Block
+
+Cell Box (Lithium Ion Battery)
+
+  {{< /speaker_note >}}
 
 - - -
 
-## Controls
+## U﻿ses
 
-* Next: `Right Arrow` or `Space`
-* Previous: `Left Arrow`
-* Start: `Home`
-* Finish: `End`
-* Overview: `Esc`
-* Speaker notes: `S`
-* Fullscreen: `F`
-* Zoom: `Alt + Click`
-* [PDF Export](https://revealjs.com/pdf-export/)
+W﻿hat are we using the Nanode Bot to demonstrate?
+
+{﻿{<speaker_note>}}
+
+E﻿xplain what we're using the Nanode Bot to demonstrate: camera modules, 
 
 - - -
 
