@@ -33,25 +33,18 @@ C﻿SCI 310-01
 
 {{< speaker_note >}}
 
-N﻿anode is an Arduino like 8 bit microcontroller board with integrated Ethernet connectivity.
-
-T﻿he bot portion of the project are the sensors and motors we're using.
+* N﻿anode is an Arduino like 8 bit microcontroller board with integrated Ethernet connectivity.
+* T﻿he bot portion of the project are the sensors and motors we're using.
 
 H﻿ardware:
 
-Arduino Uno R3
-
-Ultrasonic Sensor Module
-
-GY-521 Module (gyroscope & accelerometers)
-
-Camera Module
-
-Line Tracking Module (ITR200001)
-
-IO Expansion Block
-
-Cell Box (Lithium Ion Battery)
+* Arduino Uno R3
+* Ultrasonic Sensor Module
+* GY-521 Module (gyroscope & accelerometers)
+* Camera Module
+* Line Tracking Module (ITR200001)
+* IO Expansion Block
+* Cell Box (Lithium Ion Battery)
 
   {{< /speaker_note >}}
 
