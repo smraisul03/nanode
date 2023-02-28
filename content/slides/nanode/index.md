@@ -28,6 +28,12 @@ C﻿SCI 310-01
 
 ## Introduction
 
+<!--StartFragment-->
+
+{{< fragment >}} $\mathbf{y} = $ {{< /fragment >}} {{< fragment >}} $X\boldsymbol\beta$ {{< /fragment >}} {{< fragment >}} $+ \boldsymbol\varepsilon$ {{< /fragment >}}
+
+<!--EndFragment-->
+
 {{< fragment >}} W﻿hat is the Nanode Bot? {﻿{< /fragment >}}
 
 {﻿{ <fragment> }} W﻿hat hardware are we using? {﻿{ </fragment> }}
