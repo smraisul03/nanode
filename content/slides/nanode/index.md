@@ -28,9 +28,9 @@ C﻿SCI 310-01
 
 ## Introduction
 
-{﻿{< fragment >}} What is the Nanode Bot? {{< /fragment >}}
+{﻿{< fragment >}} $What is the Nanode Bot?$ {{< /fragment >}}
 
-{﻿{< fragment >}} What hardware are we using? {{< /fragment >}}
+{﻿{< fragment >}} $What hardware are we using?$ {{< /fragment >}}
 
 W﻿hat is the Nanode Bot?
 
