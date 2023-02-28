@@ -30,13 +30,13 @@ C﻿SCI 310-01
 
 {{<fragment>}}
 
-* W﻿hat is the Nanode Bot?
+* $\W﻿hat is the Nanode Bot?$
 
 {﻿{</fragment>}}
 
 {﻿{<fragment>}}
 
-* W﻿hat hardware are we using?
+* $\W﻿hat hardware are we using?$
 
 {﻿{</fragment>}}
 
