@@ -52,7 +52,7 @@ H﻿ardware:
 
 ## U﻿ses
 
-W﻿hat are we using the Nanode Bot to demonstrate?
+{{< fragment >}} W﻿hat are we using the Nanode Bot to demonstrate? {{< /fragment> }}
 
 {﻿{< speaker_note >}}
 
