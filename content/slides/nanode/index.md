@@ -14,7 +14,7 @@ image:
   alt_text: ""
 categories: []
 ---
-{{< slide background-image="boards.webp" >}}
+{{< slide background-color="#0000ff" >}}
 
 # Nanode Bot
 
