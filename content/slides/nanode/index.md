@@ -52,8 +52,8 @@ H﻿ardware:
 
 ## U﻿ses
 
-W﻿hat are we using the Nanode Bot to demonstrate?
-W﻿hat modules are we using on the bot?
+{{< fragment >}} $W﻿hat are we using the Nanode Bot to demonstrate? $ {{< /fragment >}}
+{{< fragment >}} $W﻿hat modules are we using on the bot? $ {{< /fragment >}}
 
 {{< speaker_note >}}
 * E﻿xplain what we're using the Nanode Bot to demonstrate: camera module, ultrasonic module, etc.
