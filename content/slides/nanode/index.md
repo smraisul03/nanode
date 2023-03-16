@@ -26,8 +26,16 @@ C﻿SCI 310-01
 
 ## Introduction
 
-{{< fragment >}} * W﻿hat is the Nanode Bot? {{< /fragment >}}
-{{< fragment >}} * W﻿hat hardware are we using? {{< /fragment >}}
+{{< fragment >}}  
+
+* W﻿hat is the Nanode Bot?
+
+ {{< /fragment >}}
+{{< fragment >}}  
+
+* W﻿hat hardware are we using?
+
+ {{< /fragment >}}
 
 {{< speaker_note >}}
 
@@ -62,8 +70,11 @@ p﻿ut the images up here, this will not be here in the final slides, i'll get t
 
 ## U﻿ses
 
-{{< fragment >}} * W﻿hat are we using the Nanode Bot to demonstrate? {{< /fragment >}}
-{{< fragment >}} * W﻿hat modules are we using on the bot? {{< /fragment >}}
+{{< fragment >}} 
+
+* W﻿hat are we using the Nanode Bot to demonstrate?
+
+ {{< /fragment >}}
 
 {{< speaker_note >}}
 
