@@ -54,6 +54,8 @@ H﻿ardware:
 
 {{< fragment >}} W﻿hat are we using the Nanode Bot to demonstrate? {{< /fragment> }}
 
+
+
 {﻿{< speaker_note >}}
 
 E﻿xplain what we're using the Nanode Bot to demonstrate: camera modules, 
