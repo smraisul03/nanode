@@ -46,19 +46,21 @@ H﻿ardware:
 * IO Expansion Block
 * Cell Box (Lithium Ion Battery)
 
-  {{< /speaker_note >}}
+{{< /speaker_note >}}
 
 - - -
 
 ## U﻿ses
 
-{{< fragment >}} W﻿hat are we using the Nanode Bot to demonstrate? {{< /fragment> }}
+{{< fragment >}} 
+W﻿hat are we using the Nanode Bot to demonstrate? 
+{{< /fragment> }}
 
 
 
 {﻿{< speaker_note >}}
 
-E﻿xplain what we're using the Nanode Bot to demonstrate: camera modules, 
+* E﻿xplain what we're using the Nanode Bot to demonstrate: camera module, ultrasonic module, etc.
 
 {﻿{< /speaker_note> }}
 
