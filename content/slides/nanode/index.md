@@ -54,9 +54,9 @@ H﻿ardware:
 
 W﻿hat are we using the Nanode Bot to demonstrate? 
 
-{﻿{<fragment >}}
+{﻿{<fragment>}}
 t﻿esting
-{﻿{< /fragment >}}
+{﻿{</fragment>}}
 
 {{< speaker_note >}}
 * E﻿xplain what we're using the Nanode Bot to demonstrate: camera module, ultrasonic module, etc.
