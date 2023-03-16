@@ -64,8 +64,8 @@ p﻿ut the images up here, this will not be here in the final slides, i'll get t
 
 ## U﻿ses
 
-{{< fragment >}} $W﻿hat are we using the Nanode Bot to demonstrate? $ {{< /fragment >}}
-{{< fragment >}} $W﻿hat modules are we using on the bot? $ {{< /fragment >}}
+{{< fragment >}} W﻿hat are we using the Nanode Bot to demonstrate? {{< /fragment >}}
+{{< fragment >}} W﻿hat modules are we using on the bot? {{< /fragment >}}
 
 {{< speaker_note >}}
 
