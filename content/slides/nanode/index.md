@@ -56,7 +56,7 @@ H﻿ardware:
 W﻿hat are we using the Nanode Bot to demonstrate? 
 {{< /fragment> }}
 
-
+t﻿esting
 
 {﻿{< speaker_note >}}
 
