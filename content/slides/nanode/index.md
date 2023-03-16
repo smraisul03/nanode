@@ -28,8 +28,8 @@ C﻿SCI 310-01
 
 ## Introduction
 
-* W﻿hat is the Nanode Bot?
-* W﻿hat hardware are we using?
+{{< fragment >}} $* W﻿hat is the Nanode Bot? $ {{< /fragment >}}
+{{< fragment >}} $* W﻿hat hardware are we using? $ {{< /fragment >}}
 
 {{< speaker_note >}}
 
@@ -50,15 +50,34 @@ H﻿ardware:
 
 - - -
 
+## Modules
+
+p﻿ut the images up here, this will not be here in the final slides, i'll get the images here sooner or later
+
+{{< speaker_note >}}
+
+* What do the individual modules do? Camera module, ultrasonic module, GY-521 module (gyroscope & accelerometers), line tracking module.
+
+{{< /speaker_note >}}
+
+- - -
+
 ## U﻿ses
 
 {{< fragment >}} $W﻿hat are we using the Nanode Bot to demonstrate? $ {{< /fragment >}}
 {{< fragment >}} $W﻿hat modules are we using on the bot? $ {{< /fragment >}}
 
 {{< speaker_note >}}
+
 * E﻿xplain what we're using the Nanode Bot to demonstrate: camera module, ultrasonic module, etc.
-*﻿ What do the individual modules do? Camera module, ultrasonic module, GY-521 module (gyroscope & accelerometers), line tracking module.
+
 {{< /speaker_note >}}
+
+- - -
+
+## Modules
+
+p﻿ut the images up here, this will not be here in the final slides, i'll get the images here sooner or later
 
 - - -
 
