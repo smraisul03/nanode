@@ -14,8 +14,6 @@ image:
   alt_text: ""
 categories: []
 ---
-{{< slide background-color="#0000ff" >}}
-
 # Nanode Bot
 
 by Ariya Seng, S M Raisul Alam Bhuiyan, and Tom Tran.
