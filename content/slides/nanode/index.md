@@ -84,131 +84,47 @@ p﻿ut the images up here, this will not be here in the final slides, i'll get t
 
 - - -
 
-## Modules
+## slide
 
-p﻿ut the images up here, this will not be here in the final slides, i'll get the images here sooner or later
-
-- - -
-
-## Code Highlighting
-
-Inline code: `variable`
-
-Code block:
-
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
+not sure if we want to show off the datapathing structure here first or code next, but i'm gonna get to you guys on that
 
 - - -
 
-## Math
+## slide
 
-In-line math: $x + y = z$
-
-Block math:
-
-$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
-
-- - -
-
-## Fragments
-
-Make content appear incrementally
-
-```
-{{</* fragment */>}} $\mathbf{y} =  $ {{</* /fragment */>}}
-{{</* fragment */>}} $X\boldsymbol\beta$ {{</* /fragment */>}}
-{{</* fragment */>}} $+ \boldsymbol\varepsilon$ {{</* /fragment */>}}
-```
-
-Press `Space` to play!
-
-{{< fragment >}} $\mathbf{y} =  $ {{< /fragment >}}
-{{< fragment >}} $X\boldsymbol\beta$ {{< /fragment >}}
-{{< fragment >}} $+ \boldsymbol\varepsilon$ {{< /fragment >}}
-
-- - -
-
-A fragment can accept two optional parameters:
-
-* `class`: use a custom style (requires definition in custom CSS)
-* `weight`: sets the order in which a fragment appears
-
-- - -
-
-## Speaker Notes
-
-Add speaker notes to your presentation
-
-```markdown
-{{%/* speaker_note */%}}
-
-- Only the speaker can read these notes
-- Press `S` key to view
-
-{{%/* /speaker_note */%}}
-```
-
-Press the `S` key to view the speaker notes!
+if we talk about code, we can talk about what we went through.
 
 {{< speaker_note >}}
 
-* Only the speaker can read these notes
-* Press `S` key to view
+* E﻿xplain that there were a set of files of code that we sifted through in order to fully understand how to operate all of the modules.
+* C﻿larify that the code we have are not simply copy and pasted; we went through the painstaking journey of going through thousands of lines of code in order to understand how everything works.
+* W﻿e can show certain screenshots of code that we looked over (not the actual code we worked on yet).
 
 {{< /speaker_note >}}
 
 - - -
 
-## Themes
+## slide
 
-* black: Black background, white text, blue links (default)
-* white: White background, black text, blue links
-* league: Gray background, white text, blue links
-* beige: Beige background, dark text, brown links
-* sky: Blue background, thin dark text, blue links
+we then clarify what we did with our code.
 
-- - -
+{{< speaker_note >}}
 
-* night: Black background, thick white text, orange links
-* serif: Cappuccino background, gray text, brown links
-* simple: White background, black text, blue links
-* solarized: Cream-colored background, dark green text, blue links
+* What did we mess with coding in prospect with the modules. Most, if not all, of the coding has to do with the modules. Talk about things like the dataset for the object tracking of the camera module, or how the GY-521 works with the motors of the bot in order to keep it heading straight. Things like this. Notes will be refined as soon as possible. This can take up multiple slides to talk about.
+
+{{< /speaker_note >}}
 
 - - -
 
-{{< slide background-image="boards.webp" >}}
+## slide
 
-## Custom Slide
-
-Customize the slide style and background
-
-```markdown
-{{</* slide background-image="boards.webp" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
-```
+we can then try and demonstrate the bot.
 
 - - -
 
-## Custom CSS Example
+## slide
 
-Let's make headers navy colored.
-
-Create `assets/css/reveal_custom.css` with:
-
-```css
-.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-```
+this is just a messaging area for others who see this before it gets refined. i dont know if i missed anything else, i'll make sure to talk to you guys about that. we can include videos of the processes of what you guys went through with the code, the trial and errors, all that good stuff and whatever.
 
 - - -
 
