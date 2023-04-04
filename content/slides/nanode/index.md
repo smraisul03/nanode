@@ -85,6 +85,9 @@ H﻿ardware:
 
 ## PID Algorithm & Datapath
 
+{{< fragment >}} $\mathbf{y} =  $ {{< /fragment >}}
+{{< fragment >}} $X\boldsymbol\beta$ {{< /fragment >}}
+{{< fragment >}} $+ \boldsymbol\varepsilon$ {{< /fragment >}}
 
 - - -
 
