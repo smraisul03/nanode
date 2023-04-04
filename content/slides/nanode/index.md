@@ -89,8 +89,16 @@ H﻿ardware:
 P﻿ress to Play!
 
 {{< fragment >}} $\mathbf{y} =  $ {{< /fragment >}}
+
+
 {{< fragment >}} $X\boldsymbol\beta$ {{< /fragment >}}
+
+
 {{< fragment >}} $+ \boldsymbol\varepsilon$ {{< /fragment >}}
+
+{{< fragment >}} $\mathbf{y} =  $ {{< /fragment >}}
+
+
 
 - - -
 
