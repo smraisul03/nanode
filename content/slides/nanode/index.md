@@ -8,7 +8,7 @@ slides:
 authors: []
 tags: []
 image:
-  preview_only: false
+  preview_only: true
   caption: Nanode in his natural habitat
   alt_text: ""
   filename: featured.jpg
@@ -17,9 +17,9 @@ categories: []
 ---
 # Nanode Bot
 
-by Ariya Seng, S M Raisul Alam Bhuiyan, and Tom Tran.
+by Ariya Seng, S M Raisul Alam Bhuiyan, and Tom Tran
 
-C﻿SCI 310-01
+C﻿SCI 310-01-SPRING-2023
 
 **0﻿4/17/2023**
 
@@ -39,8 +39,8 @@ C﻿SCI 310-01
 {{< speaker_note >}}
 
 * Nanode is a 4-wheel robot that can move around in all four directions
-* Nanode can also do basic object detections as well
-*
+* Nanode can also do basic object detections as well via the camera & sensor modules
+* 
 
 {{< /speaker_note >}}
 
@@ -83,9 +83,8 @@ H﻿ardware:
 
 - - -
 
-## PLA Algorithm
+## PID Algorithm & Datapath
 
-not sure if we want to show off the datapathing structure here first or code next, but i'm gonna get to you guys on that
 
 - - -
 
