@@ -20,21 +20,18 @@ by Ariya Seng, S M Raisul Alam Bhuiyan, and Tom Tran.
 
 C﻿SCI 310-01
 
-**D﻿ATE**
+**0﻿4/17/2023**
 
 - - -
 
 ## Introduction
 
 {{< fragment >}}  
-
 * W﻿hat is the Nanode Bot?
-
  {{< /fragment >}}
+
 {{< fragment >}}  
-
 * W﻿hat hardware are we using?
-
  {{< /fragment >}}
 
 {{< speaker_note >}}
