@@ -9,8 +9,10 @@ authors: []
 tags: []
 image:
   preview_only: true
-  caption: ""
+  caption: Nanode in his natural habitat
   alt_text: ""
+  filename: featured.jpg
+  focal_point: center
 categories: []
 ---
 # Nanode Bot
