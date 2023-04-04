@@ -8,7 +8,7 @@ slides:
 authors: []
 tags: []
 image:
-  preview_only: true
+  preview_only: false
   caption: Nanode in his natural habitat
   alt_text: ""
   filename: featured.jpg
