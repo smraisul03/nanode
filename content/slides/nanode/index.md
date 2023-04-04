@@ -6,8 +6,7 @@ slides:
   theme: league
   highlight_style: dracula
 authors: []
-tags:
-  - Tutorials
+tags: []
 image:
   preview_only: true
   caption: ""
