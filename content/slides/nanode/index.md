@@ -91,10 +91,10 @@ P﻿ress to Play!
 {{< fragment >}} $u(t) $ {{< /fragment >}}
 
 
-{{< fragment >}} $ = K_Pe(t) $ {{< /fragment >}}
+{{< fragment >}} $ = K_pe(t) $ {{< /fragment >}}
 
 
-{{< fragment >}} $ + K_i\int_{t}^{0}e(t)dt $ {{< /fragment >}}
+{{< fragment >}} $ + K_i\int_{0}^{t}e(t)dt $ {{< /fragment >}}
 
 {{< fragment >}} $ + K_d \frac{de(t)}{dt} $ {{< /fragment >}}
 
