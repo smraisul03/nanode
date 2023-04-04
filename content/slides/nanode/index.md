@@ -6,12 +6,13 @@ slides:
   theme: league
   highlight_style: dracula
 authors: []
-tags:
-  - Tutorials
+tags: []
 image:
-  preview_only: true
-  caption: ""
+  preview_only: false
+  caption: Nanode in his natural habitat
   alt_text: ""
+  filename: featured.jpg
+  focal_point: center
 categories: []
 ---
 # Nanode Bot
@@ -20,7 +21,7 @@ by Ariya Seng, S M Raisul Alam Bhuiyan, and Tom Tran.
 
 C﻿SCI 310-01
 
-1﻿7 April 2023
+**0﻿4/17/2023**
 
 - - -
 
@@ -29,45 +30,45 @@ C﻿SCI 310-01
 {{< fragment >}}  
 
 * W﻿hat is the Nanode Bot?
+  {{< /fragment >}}
 
- {{< /fragment >}}
 {{< fragment >}}  
 
 * W﻿hat hardware are we using?
-
- {{< /fragment >}}
+  {{< /fragment >}}
 
 {{< speaker_note >}}
 
-* N﻿anode is an Arduino like 8 bit microcontroller board with integrated Ethernet connectivity.
-* T﻿he bot portion of the project are the sensors and motors we're using.
+* Nanode is a 4-wheel robot that can move around in all four directions
+* Nanode can also do basic object detections as well
+*
 
+{{< /speaker_note >}}
+
+- - -
+
+## Hardware Design
+
+{{< fragment >}}  
+
+* W﻿hat hardware are we using?
+  {{< /fragment >}}
+
+{{< speaker_note >}}
 H﻿ardware:
 
 * Arduino Uno R3
-* Ultrasonic Sensor Module (HC-SR04)
+* Ultrasonic Sensor Module
 * GY-521 Module (gyroscope & accelerometers)
-* ESP32 Camera Module
+* Camera Module
+* Line Tracking Module (ITR200001)
 * IO Expansion Block
 * Cell Box (Lithium Ion Battery)
-
-{{< /speaker_note >}}
-
-- - -
-
-## Modules
-
-p﻿ut the images up here, this will not be here in the final slides, i'll get the images here sooner or later
-
-{{< speaker_note >}}
-
-* What do the individual modules do? Camera module, ultrasonic module, GY-521 module (gyroscope & accelerometers), line tracking module.
-
-{{< /speaker_note >}}
+  {{< /speaker_note >}}
 
 - - -
 
-## U﻿ses
+## Software Design
 
 {{< fragment >}} 
 
@@ -83,48 +84,27 @@ p﻿ut the images up here, this will not be here in the final slides, i'll get t
 
 - - -
 
-## TB6612
+## slide
 
-here we will show the diagrams for the modules we're using. might not show the arduino uno r3 diagram bc that's just \*way\* too much. first one up is the **tb6612**.
-
-- - -
-
-## MPU6050 GY-521
-
-diagram for the mpu6050 here. at this slide, we'll also explain why we don't have a diagram for every module we're using -- **COMPLEXITY**! this project was a lot more complex than we thought, so we're making it as simple as possible while still understandable.
+not sure if we want to show off the datapathing structure here first or code next, but i'm gonna get to you guys on that
 
 - - -
 
-## Beginning Stages of Code
+## slide
 
-{{< fragment >}} 
-
-* We got lucky
-
- {{< /fragment >}}
-
-{{< fragment >}} 
-
-* We did **not** copy and paste.
-
- {{< /fragment >}}
+if we talk about code, we can talk about what we went through.
 
 {{< speaker_note >}}
 
 * E﻿xplain that there were a set of files of code that we sifted through in order to fully understand how to operate all of the modules.
 * C﻿larify that the code we have are not simply copy and pasted; we went through the painstaking journey of going through thousands of lines of code in order to understand how everything works.
+* W﻿e can show certain screenshots of code that we looked over (not the actual code we worked on yet).
 
 {{< /speaker_note >}}
 
 - - -
 
-## Beginning Stages of Code
-
-W﻿e can show certain screenshots of code that we looked over (not the actual code we worked on yet).
-
-- - -
-
-## C﻿ompiling Our Code
+## slide
 
 we then clarify what we did with our code.
 
@@ -136,7 +116,7 @@ we then clarify what we did with our code.
 
 - - -
 
-## Demonstration
+## slide
 
 we can then try and demonstrate the bot.
 
