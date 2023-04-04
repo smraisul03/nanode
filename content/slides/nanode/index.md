@@ -28,8 +28,9 @@ C﻿SCI 310-01-SPRING-2023
 ## Introduction
 
 {{< fragment >}}  
+
 * W﻿hat is the Nanode Bot?
-{{< /fragment >}}
+  {{< /fragment >}}
 
 {{< fragment >}}  
 
@@ -40,7 +41,7 @@ C﻿SCI 310-01-SPRING-2023
 
 * Nanode is a 4-wheel robot that can move around in all four directions
 * Nanode can also do basic object detections as well via the camera & sensor modules
-* 
+*
 
 {{< /speaker_note >}}
 
@@ -85,8 +86,14 @@ H﻿ardware:
 
 ## PID Algorithm & Datapath
 
+P﻿ress to Play!
+
 {{< fragment >}} $\mathbf{y} =  $ {{< /fragment >}}
+
+
 {{< fragment >}} $X\boldsymbol\beta$ {{< /fragment >}}
+
+
 {{< fragment >}} $+ \boldsymbol\varepsilon$ {{< /fragment >}}
 
 - - -
