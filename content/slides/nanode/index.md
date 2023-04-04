@@ -88,15 +88,15 @@ H﻿ardware:
 
 P﻿ress to Play!
 
-{{< fragment >}} $\mathbf{y} =  $ {{< /fragment >}}
+{{< fragment >}} $u(t) $ {{< /fragment >}}
 
 
-{{< fragment >}} $X\boldsymbol\beta$ {{< /fragment >}}
+{{< fragment >}} $ = K_Pe(t) $ {{< /fragment >}}
 
 
-{{< fragment >}} $+ \boldsymbol\varepsilon$ {{< /fragment >}}
+{{< fragment >}} $ + K_i\int_{t}^{0}e(t)dt $ {{< /fragment >}}
 
-{{< fragment >}} $\mathbf{y} =  $ {{< /fragment >}}
+{{< fragment >}} $ + K_d \frac{de(t)}{dt} $ {{< /fragment >}}
 
 
 
