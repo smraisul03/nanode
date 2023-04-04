@@ -83,7 +83,7 @@ H﻿ardware:
 
 - - -
 
-## slide
+## PLA Algorithm
 
 not sure if we want to show off the datapathing structure here first or code next, but i'm gonna get to you guys on that
 
