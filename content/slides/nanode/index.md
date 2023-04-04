@@ -29,7 +29,7 @@ C﻿SCI 310-01
 
 {{< fragment >}}  
 * W﻿hat is the Nanode Bot?
- {{< /fragment >}}
+{{< /fragment >}}
 
 {{< fragment >}}  
 * W﻿hat hardware are we using?
