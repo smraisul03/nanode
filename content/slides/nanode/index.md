@@ -86,7 +86,7 @@ H﻿ardware:
 
 ## PID Algorithm & Datapath
 
-* Proportional Integral & Derivative (PID) Algorithm is used for control loop movement of Nanode's wheels turning
+* Proportional Integral & Derivative (PID) Algorithm is used for control loop movement of Nanode's wheels
 * Allows Nanode to freely move, yet also stay focused in the direction it is heading in
 * The equation of the PID can be seen below:
 
