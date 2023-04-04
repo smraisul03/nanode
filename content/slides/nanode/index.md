@@ -28,9 +28,8 @@ C﻿SCI 310-01
 ## Introduction
 
 {{< fragment >}}  
-
 * W﻿hat is the Nanode Bot?
-  {{< /fragment >}}
+{{< /fragment >}}
 
 {{< fragment >}}  
 
