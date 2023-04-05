@@ -94,7 +94,7 @@ H﻿ardware:
 
 {{< fragment >}} $u(t) $ {{< /fragment >}}
 {{< fragment >}} $ = K_p e(t) $ {{< /fragment >}}
-{{< fragment >}} $ + K_i \int{0}^{t} e(t)dt $ {{< /fragment >}}
+{{< fragment >}} $ + K_i \int_{0}^{t} e(t)dt $ {{< /fragment >}}
 {{< fragment >}} $ + K_d \frac{de(t)}{dt} $ {{< /fragment >}}
 
 {{< speaker_note >}}
