@@ -133,6 +133,8 @@ we then clarify what we did with our code.
 
 we can then try and demonstrate the bot.
 
+{{< background-image="featured.jpg" >}}
+
 - - -
 
 ## slide
