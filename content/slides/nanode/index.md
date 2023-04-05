@@ -17,6 +17,8 @@ categories: []
 ---
 # Nanode Bot
 
+{{< slide background-image="featured.jpg" >}}
+
 by Ariya Seng, S M Raisul Alam Bhuiyan, and Tom Tran
 
 C﻿SCI 310-01-SPRING-2023
@@ -91,8 +93,8 @@ H﻿ardware:
 * The equation of the PID can be seen below:
 
 {{< fragment >}} $u(t) $ {{< /fragment >}}
-{{< fragment >}} $ = K_pe(t) $ {{< /fragment >}}
-{{< fragment >}} $ + K_i\int_{0}^{t}e(t)dt $ {{< /fragment >}}
+{{< fragment >}} $ = K*pe(t) $ {{< /fragment >}}
+{{< fragment >}} $ + K_i\int*{0}^{t}e(t)dt $ {{< /fragment >}}
 {{< fragment >}} $ + K_d \frac{de(t)}{dt} $ {{< /fragment >}}
 
 {{< speaker_note >}}
@@ -100,6 +102,7 @@ H﻿ardware:
 * Should also mention that the PID algorithm is directly based upon the TB6612 driver chip, and the datapath it is using to direct from that point
 
 {{< /speaker_note >}}
+
 - - -
 
 ## slide
