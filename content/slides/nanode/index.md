@@ -105,8 +105,6 @@ H﻿ardware:
 
 ## slide
 
-{{< background-image="featured.jpg" >}}
-
 if we talk about code, we can talk about what we went through.
 
 {{< speaker_note >}}
