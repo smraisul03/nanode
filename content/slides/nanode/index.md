@@ -17,13 +17,13 @@ categories: []
 ---
 # Nanode Bot
 
-{{< slide background-image="featured.jpg" >}}
-
 by Ariya Seng, S M Raisul Alam Bhuiyan, and Tom Tran
 
 C﻿SCI 310-01-SPRING-2023
 
 **0﻿4/17/2023**
+
+{{< slide background-image="featured.jpg" >}}
 
 - - -
 
