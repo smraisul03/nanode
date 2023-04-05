@@ -15,6 +15,8 @@ image:
   focal_point: center
 categories: []
 ---
+{{< slide background-image="featured.jpg" >}}
+
 # Nanode Bot
 
 by Ariya Seng, S M Raisul Alam Bhuiyan, and Tom Tran
@@ -128,7 +130,6 @@ we then clarify what we did with our code.
 {{< /speaker_note >}}
 
 - - -
-{{< slide background-image="featured.jpg" >}}
 
 ## slide
 
