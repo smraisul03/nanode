@@ -128,12 +128,11 @@ we then clarify what we did with our code.
 {{< /speaker_note >}}
 
 - - -
+{{< slide background-image="featured.jpg" >}}
 
 ## slide
 
 we can then try and demonstrate the bot.
-
-{{< background-image="featured.jpg" >}}
 
 - - -
 
