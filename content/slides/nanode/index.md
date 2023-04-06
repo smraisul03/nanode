@@ -19,7 +19,7 @@ categories: []
 
 # Nanode Bot
 
-by Ariya Seng, S M Raisul Alam Bhuiyan, and Tom Tran
+by Ariya Seng, S M Raisul Alam Bhuiyan, and Tom Tran 
 
 C﻿SCI 310-01-SPRING-2023
 
