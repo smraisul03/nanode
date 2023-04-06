@@ -69,9 +69,9 @@ H﻿ardware:
   {{< /speaker_note >}}
 
 - - -
-{{< fragment >}}  
-
 * The heart of Nanode Robot is the Arduino Uno R3
+
+{{< fragment >}}  
 *﻿ Due to it simplicity, availability, and affordability, it is one of the best candidate to have
   {{< /fragment >}}
 
@@ -80,10 +80,22 @@ H﻿ardware:
   {{< /speaker_note >}}
 
 - - -
+* The next part is the custom board with the driver chip, TB6612
+
 {{< fragment >}}  
 
-* The next part is the custom board with the driver chip, TB6612
 *﻿ This hardware is especially useful in the ability for us to control the robot
+  {{< /fragment >}}
+
+{{< speaker_note >}}
+* Arduino Uno R3
+  {{< /speaker_note >}}
+- - -
+* The next part is the gyroscope module, which allows us to actuate the control motion for Nanode
+
+{{< fragment >}}  
+
+*﻿ This hardware lets us determine the speed, control movement, and so forth 
   {{< /fragment >}}
 
 {{< speaker_note >}}
@@ -107,14 +119,15 @@ H﻿ardware:
 {{< /speaker_note >}}
 
 - - -
+* Languages that are used in the programming of Nanode are
 
 {{< fragment >}} 
-
-* Languages that are used in the programming of Nanode are
+ 
  *﻿ C
- * C﻿++
- ﻿* Arduino Programming Language
-
+ 
+* C﻿++
+ 
+﻿* Arduino Programming Language
 
  {{< /fragment >}}
 
