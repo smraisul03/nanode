@@ -34,11 +34,6 @@ C﻿SCI 310-01-SPRING-2023
 * W﻿hat is the Nanode Bot?
   {{< /fragment >}}
 
-{{< fragment >}}  
-
-* W﻿hat hardware are we using?
-  {{< /fragment >}}
-
 {{< speaker_note >}}
 
 * Nanode is a 4-wheel robot that can move around in all four directions
@@ -77,6 +72,9 @@ H﻿ardware:
 {{< speaker_note >}}
 * Arduino Uno R3
   {{< /speaker_note >}}
+- - -
+
+{{< slide background-image="arduinounor3.png" >}}
 
 - - -
 * The next part is the custom board with the driver chip, TB6612
@@ -87,8 +85,11 @@ H﻿ardware:
   {{< /fragment >}}
 
 {{< speaker_note >}}
-* Arduino Uno R3
+* TB6612 allows us to control the other parts of the movement, such as the wheels 
   {{< /speaker_note >}}
+- - -
+
+{{< slide background-image="tb6612.png" >}}
 - - -
 * The next part is the gyroscope module GY-521, which allows us to actuate the control motion for Nanode
 
@@ -102,7 +103,9 @@ H﻿ardware:
 {{< speaker_note >}}
 * GY-521
   {{< /speaker_note >}}
+- - -
 
+{{< slide background-image="mpu60503.png" >}}
 - - -
 
 ## Software Design
@@ -118,10 +121,6 @@ H﻿ardware:
 * E﻿xplain what we're using the Nanode Bot to demonstrate: camera module, ultrasonic module, etc.
 
 {{< /speaker_note >}}
-
-- - -
-
-{{< slide background-image="arduinounor3.png" >}}
 
 - - -
 * Languages that are used in the programming of Nanode are
