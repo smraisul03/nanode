@@ -12,7 +12,7 @@ image:
   caption: Nanode in his natural habitat
   alt_text: ""
   filename: featured.jpg
-  focal_point: center
+  focal_point: smart
 categories: []
 ---
 {{< slide background-image="featured.jpg" >}}
