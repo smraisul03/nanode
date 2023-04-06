@@ -163,7 +163,7 @@ H﻿ardware:
 
 - - -
 
-## Datapath
+{{< slide background-image="mpu60503.png" >}}
 
 {{< speaker_note >}}
 
