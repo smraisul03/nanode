@@ -95,6 +95,7 @@ H﻿ardware:
 {{< fragment >}}  
 
 * This hardware lets us determine the speed, control movement, and so forth 
+
 *﻿ The driver chip inside of the GY-521 is the MPU6050 chip, which is used later for control
   {{< /fragment >}}
 
