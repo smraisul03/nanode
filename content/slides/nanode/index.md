@@ -43,7 +43,6 @@ C﻿SCI 310-01-SPRING-2023
 
 * Nanode is a 4-wheel robot that can move around in all four directions
 * Nanode can also do basic object detections as well via the camera & sensor modules
-*
 
 {{< /speaker_note >}}
 
@@ -72,7 +71,7 @@ H﻿ardware:
 * The heart of Nanode Robot is the Arduino Uno R3
 
 {{< fragment >}}  
-*﻿ Due to it simplicity, availability, and affordability, it is one of the best candidate to have
+* Due to it simplicity, availability, and affordability, it is one of the best candidate to have
   {{< /fragment >}}
 
 {{< speaker_note >}}
@@ -84,22 +83,23 @@ H﻿ardware:
 
 {{< fragment >}}  
 
-*﻿ This hardware is especially useful in the ability for us to control the robot
+* This hardware is especially useful in the ability for us to control the robot
   {{< /fragment >}}
 
 {{< speaker_note >}}
 * Arduino Uno R3
   {{< /speaker_note >}}
 - - -
-* The next part is the gyroscope module, which allows us to actuate the control motion for Nanode
+* The next part is the gyroscope module GY-521, which allows us to actuate the control motion for Nanode
 
 {{< fragment >}}  
 
-*﻿ This hardware lets us determine the speed, control movement, and so forth 
+* This hardware lets us determine the speed, control movement, and so forth 
+*﻿ The driver chip inside of the GY-521 is the MPU6050 chip, which is used later for control
   {{< /fragment >}}
 
 {{< speaker_note >}}
-* Arduino Uno R3
+* GY-521
   {{< /speaker_note >}}
 
 - - -
