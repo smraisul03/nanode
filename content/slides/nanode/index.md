@@ -120,11 +120,15 @@ H﻿ardware:
 {{< /speaker_note >}}
 
 - - -
+
+{{< slide background-image="featured.jpg" >}}
+
+- - -
 * Languages that are used in the programming of Nanode are
 
 {{< fragment >}} 
  
- *﻿ C
+*﻿ C 
  
 * C﻿++
  
