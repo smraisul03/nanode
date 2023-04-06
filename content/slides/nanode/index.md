@@ -69,6 +69,28 @@ H﻿ardware:
   {{< /speaker_note >}}
 
 - - -
+{{< fragment >}}  
+
+* The heart of Nanode Robot is the Arduino Uno R3
+*﻿ Due to it simplicity, availability, and affordability, it is one of the best candidate to have
+  {{< /fragment >}}
+
+{{< speaker_note >}}
+* Arduino Uno R3
+  {{< /speaker_note >}}
+
+- - -
+{{< fragment >}}  
+
+* The next part is the custom board with the driver chip, TB6612
+*﻿ This hardware is especially useful in the ability for us to control the robot
+  {{< /fragment >}}
+
+{{< speaker_note >}}
+* Arduino Uno R3
+  {{< /speaker_note >}}
+
+- - -
 
 ## Software Design
 
@@ -86,10 +108,28 @@ H﻿ardware:
 
 - - -
 
+{{< fragment >}} 
+
+* Languages that are used in the programming of Nanode are
+ *﻿ C
+ * C﻿++
+ ﻿* Arduino Programming Language
+
+
+ {{< /fragment >}}
+
+{{< speaker_note >}}
+
+* E﻿xplain as well as to the importance of using those languages 
+*﻿ C++ because it is easier for us to do some HLL abstraction, which comes in handy with some of the code
+*﻿ Arduino native language because it is easier to support with some of the aspect of initialization with the Uno R3
+{{< /speaker_note >}}
+
+- - -
+
 ## PID Algorithm & Datapath
 
 * Proportional Integral & Derivative (PID) Algorithm is used for control loop movement of Nanode's wheels
-* Allows Nanode to freely move, yet also stay focused in the direction it is heading in
 * The equation of the PID can be seen below:
 
 {{< fragment >}} $u(t) $ {{< /fragment >}}
@@ -100,26 +140,23 @@ H﻿ardware:
 {{< speaker_note >}}
 
 * Should also mention that the PID algorithm is directly based upon the TB6612 driver chip, and the datapath it is using to direct from that point
+* Allows Nanode to freely move, yet also stay focused in the direction it is heading in
 
 {{< /speaker_note >}}
 
 - - -
 
-## slide
-
-if we talk about code, we can talk about what we went through.
+## Datapath
 
 {{< speaker_note >}}
 
-* E﻿xplain that there were a set of files of code that we sifted through in order to fully understand how to operate all of the modules.
-* C﻿larify that the code we have are not simply copy and pasted; we went through the painstaking journey of going through thousands of lines of code in order to understand how everything works.
-* W﻿e can show certain screenshots of code that we looked over (not the actual code we worked on yet).
+* From the PID Algorithm, we have successfully derivative from the datapath
 
 {{< /speaker_note >}}
 
 - - -
 
-## slide
+## Angular Velocity
 
 we then clarify what we did with our code.
 
@@ -141,10 +178,12 @@ we can then try and demonstrate the bot.
 
 this is just a messaging area for others who see this before it gets refined. i dont know if i missed anything else, i'll make sure to talk to you guys about that. we can include videos of the processes of what you guys went through with the code, the trial and errors, all that good stuff and whatever.
 
+{{< fragment >}}
+
+-   W﻿hat is the Nanode Bot? {{< /fragment >}}
+
+{{< fragment >}}
+
 - - -
 
 # Questions?
-
-[Ask](https://discord.gg/z8wNYzb)
-
-[Documentation](https://wowchemy.com/docs/content/slides/)
