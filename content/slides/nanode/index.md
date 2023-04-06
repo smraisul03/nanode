@@ -121,7 +121,7 @@ H﻿ardware:
 
 - - -
 
-{{< slide background-image="mpu60503.png" >}}
+{{< slide background-image="tb6612.png" >}}
 
 - - -
 * Languages that are used in the programming of Nanode are
