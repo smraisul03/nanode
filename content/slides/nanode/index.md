@@ -120,7 +120,7 @@ H﻿ardware:
 
 {﻿{< slide background-image ="ultrasonic.png">}}
 
-{﻿{<slide background-image ="camera.png">}}
+{﻿{< slide background-image ="camera.png">}}
 
 - - -
 
