@@ -63,20 +63,25 @@ H﻿ardware:
   {{< /speaker_note >}}
 
 - - -
+
 * The heart of Nanode Robot is the Arduino Uno R3
 
 {{< fragment >}}  
+
 * Due to it simplicity, availability, and affordability, it is one of the best candidate to have
   {{< /fragment >}}
 
 {{< speaker_note >}}
+
 * Arduino Uno R3
   {{< /speaker_note >}}
+
 - - -
 
 {{< slide background-image="arduinounor3.png" >}}
 
 - - -
+
 * The next part is the custom board with the driver chip, TB6612
 
 {{< fragment >}}  
@@ -85,27 +90,34 @@ H﻿ardware:
   {{< /fragment >}}
 
 {{< speaker_note >}}
+
 * TB6612 allows us to control the other parts of the movement, such as the wheels 
   {{< /speaker_note >}}
+
 - - -
 
 {{< slide background-image="tb6612.png" >}}
+
 - - -
+
 * The next part is the gyroscope module GY-521, which allows us to actuate the control motion for Nanode
 
 {{< fragment >}}  
 
 * This hardware lets us determine the speed, control movement, and so forth 
 
-*﻿ The driver chip inside of the GY-521 is the MPU6050 chip, which is used later for control
+\*﻿ The driver chip inside of the GY-521 is the MPU6050 chip, which is used later for control
   {{< /fragment >}}
 
 {{< speaker_note >}}
+
 * GY-521
   {{< /speaker_note >}}
+
 - - -
 
 {{< slide background-image="mpu60503.png" >}}
+
 - - -
 
 ## Software Design
@@ -120,27 +132,38 @@ H﻿ardware:
 
 * E﻿xplain what we're using the Nanode Bot to demonstrate: camera module, ultrasonic module, etc.
 
+\*﻿ The nanode bot's original function required us to use a remote controller to control the movement of the bot. We wanted to implement the idea where the robot doesn't require a controller for it to function. 
+
+*  We then implemented a "follow mode" that allows the nanode bot to auto-detect an object in front of its' ultrasonic sensor and follow it on its own. 
+
+\*﻿ The nanode bot also uses a ESP32 camera module to detect and recognize faces. 
+
+* The camera can also be live streamed through the camera wi-fi.
+
+
+
 {{< /speaker_note >}}
 
 - - -
+
 * Languages that are used in the programming of Nanode are
 
 {{< fragment >}} 
- 
-*﻿ C 
- 
+
+\*﻿ C 
+
 * C﻿++
- 
-﻿* Arduino Programming Language
+
+\* Arduino Programming Language
 
  {{< /fragment >}}
 
 {{< speaker_note >}}
 
 * E﻿xplain as well as to the importance of using those languages 
-*﻿ C++ because it is easier for us to do some HLL abstraction, which comes in handy with some of the code
-*﻿ Arduino native language because it is easier to support with some of the aspect of initialization with the Uno R3
-{{< /speaker_note >}}
+  ﻿* C++ because it is easier for us to do some HLL abstraction, which comes in handy with some of the code*
+  ﻿ Arduino native language because it is easier to support with some of the aspect of initialization with the Uno R3
+  {{< /speaker_note >}}
 
 - - -
 
@@ -150,8 +173,8 @@ H﻿ardware:
 * The equation of the PID can be seen below:
 
 {{< fragment >}} $u(t) $ {{< /fragment >}}
-{{< fragment >}} $ = K_p e(t) $ {{< /fragment >}}
-{{< fragment >}} $ + K_i \int_{0}^{t} e(t)dt $ {{< /fragment >}}
+{{< fragment >}} $ = K*p e(t) $ {{< /fragment >}}
+{{< fragment >}} $ + K_i \int*{0}^{t} e(t)dt $ {{< /fragment >}}
 {{< fragment >}} $ + K_d \frac{de(t)}{dt} $ {{< /fragment >}}
 
 {{< speaker_note >}}
@@ -197,7 +220,7 @@ this is just a messaging area for others who see this before it gets refined. i 
 
 {{< fragment >}}
 
--   W﻿hat is the Nanode Bot? {{< /fragment >}}
+* W﻿hat is the Nanode Bot? {{< /fragment >}}
 
 {{< fragment >}}
 
