@@ -145,11 +145,11 @@ H﻿ardware:
 {{< /speaker_note >}}
 - - -
 
-{{< slide background-image="arduinounor3.png" >}}
+{{< slide background-image="ultrasonicsensor.png" >}}
 
 - - -
 
-{{< slide background-image="arduinounor3.png" >}}
+{{< slide background-image="ultrasonicwithbody.png" >}}
 - - -
 
 
