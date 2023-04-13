@@ -4,7 +4,7 @@ widget_id: nanode
 headless: true
 weight: 10
 title: Hi! I'm Nanode.
-subtitle: An example of writing _open_ slides with Markdown
+subtitle: CSCI U310 Spring 2022
 content:
   taxonomy: tags
   count: 20
