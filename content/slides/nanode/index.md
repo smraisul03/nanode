@@ -118,10 +118,6 @@ H﻿ardware:
 
 {{< slide background-image="mpu60503.png" >}}
 
-{﻿{< slide background-image ="ultrasonic.png">}}
-
-{﻿{< slide background-image ="camera.png">}}
-
 - - -
 
 ## Software Design
@@ -147,6 +143,10 @@ H﻿ardware:
 
 
 {{< /speaker_note >}}
+
+{﻿{< slide background-image ="ultrasonic.png">}}
+
+{﻿{< slide background-image ="camera.png">}}
 
 - - -
 
