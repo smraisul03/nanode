@@ -134,13 +134,11 @@ H﻿ardware:
 
 \*﻿ The nanode bot's original function required us to use a remote controller to control the movement of the bot. We wanted to implement the idea where the robot doesn't require a controller for it to function. 
 
-*  We then implemented a "follow mode" that allows the nanode bot to auto-detect an object in front of its' ultrasonic sensor and follow it on its own. 
+* We then implemented a "follow mode" that allows the nanode bot to auto-detect an object in front of its' ultrasonic sensor and follow it on its own. 
 
 \*﻿ The nanode bot also uses a ESP32 camera module to detect and recognize faces. 
 
 * The camera can also be live streamed through the camera wi-fi.
-
-
 
 {{< /speaker_note >}}
 
@@ -150,20 +148,20 @@ H﻿ardware:
 
 {{< fragment >}} 
 
-\*﻿ C 
-
+* C﻿
 * C﻿++
-
-\* Arduino Programming Language
+* A﻿rduino 
 
  {{< /fragment >}}
 
 {{< speaker_note >}}
 
 * E﻿xplain as well as to the importance of using those languages 
-  ﻿* C++ because it is easier for us to do some HLL abstraction, which comes in handy with some of the code*
-  ﻿ Arduino native language because it is easier to support with some of the aspect of initialization with the Uno R3
-  {{< /speaker_note >}}
+
+  * ﻿C++ because it is easier for us to do some HLL abstraction, which comes in handy with some of the code 
+  * Arduino native language because it is easier to support with some of the aspect of initialization with the Uno R3
+
+{{< speaker_note >}}
 
 - - -
 
