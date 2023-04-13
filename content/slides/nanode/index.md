@@ -149,7 +149,7 @@ H﻿ardware:
 
 - - -
 
-{{< slide background-image="ultrasonicwithbody1.png" >}}
+{{< slide background-image="ultrasonicwithbody.png" >}}
 - - -
 
 
