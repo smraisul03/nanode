@@ -145,13 +145,13 @@ H﻿ardware:
 {{< /speaker_note >}}
 - - -
 
-{﻿{< slide background-image="ultrasonic.png">}}
+{{< slide background-image="arduinounor3.png" >}}
 
 - - -
 
-{﻿{< slide background-image="camera.png">}}
-
+{{< slide background-image="arduinounor3.png" >}}
 - - -
+
 
 * Languages that are used in the programming of Nanode are
 
